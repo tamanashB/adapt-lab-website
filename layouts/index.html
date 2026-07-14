@@ -1,18 +1,24 @@
 {{- define "main" }}
-<article class="post-single">
-  <header class="post-header">
-    {{- if .Params.cover.image }}
-    <figure class="entry-cover"><img loading="lazy" src="{{ .Params.cover.image }}" alt="">
-    </figure>
-    {{- end }}
-  </header>
-
-  <div class="post-content">
+<div class="profile">
+  <div class="profile_inner">
     {{- $image := .Params.imageUrl }}
     {{- if $image }}
-    <img src="{{ $image | absURL }}" alt="{{ .Params.imageTitle }}" style="height:180px; width:180px; border-radius:50%; margin: 0 auto; display:block;">
+    <img draggable="false" src="{{ $image | absURL }}" alt="{{ .Params.imageTitle }}" title="{{ .Params.imageTitle }}" height="180" width="180">
     {{- end }}
-    <h1 style="text-align:center;">{{ .Title }}</h1>
+    <h1>Welcome to the Bhattacharya Lab</h1>
+    <span>We study adaptive dynamics across pathogen-host interaction networks at WashU.</span>
+    <div class="social-icons">
+      {{- range .Site.Params.socialIcons }}
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
+        {{- partial "svg.html" .name }}
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</div>
+
+<article class="post-single">
+  <div class="post-content">
     {{ .Content }}
   </div>
 </article>
