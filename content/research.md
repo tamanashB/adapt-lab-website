@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 ---
 
 ## What We Study
