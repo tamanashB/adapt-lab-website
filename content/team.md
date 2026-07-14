@@ -4,7 +4,7 @@ title: "Team"
 
 ## Principal Investigator
 
-![Tamanash Bhattacharya, Ph.D.](/images/bhattacharya.png)
+![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/bhattacharya.png)
 
 ### Tamanash Bhattacharya, Ph.D. (he/him)
 
@@ -22,7 +22,7 @@ Outside the lab, Tamanash enjoys spending time with family and friends.
 
 ## Honorary Member
 
-![Suzie B](/images/suzie.png)
+![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/suzie.png)
 
 ### Suzie B
 
