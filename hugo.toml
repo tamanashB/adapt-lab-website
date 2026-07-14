@@ -14,6 +14,7 @@ paginate = 10
   ShowCodeCopyButtons = false
   hideMeta = true
   disableThemeToggle = true
+  defaultTheme = "light"
 
 [params.homeInfoParams]
   Title = "Welcome to the Bhattacharya Lab"
@@ -79,11 +80,3 @@ paginate = 10
   apple_touch_icon = "apple-touch-icon.png"
   safari_pinned_tab = "favicon.svg"
   css = ["css/custom.css"]
-
-[params.assets.theme_vars]
-  primary = "rgb(255, 255, 255)"
-  secondary = "rgb(255, 255, 255)"
-  tertiary = "rgb(255, 255, 255)"
-  theme = "rgb(255, 255, 255)"
-  entry = "rgb(255, 255, 255)"
-  content = "rgb(0, 0, 0)"
