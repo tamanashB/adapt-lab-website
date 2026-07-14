@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title:
 ---
 
 ## What We Study
