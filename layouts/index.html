@@ -1,0 +1,19 @@
+{{- define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    {{- if .Params.cover.image }}
+    <figure class="entry-cover"><img loading="lazy" src="{{ .Params.cover.image }}" alt="">
+    </figure>
+    {{- end }}
+  </header>
+
+  <div class="post-content">
+    {{- $image := .Params.imageUrl }}
+    {{- if $image }}
+    <img src="{{ $image | absURL }}" alt="{{ .Params.imageTitle }}" style="height:180px; width:180px; border-radius:50%; margin: 0 auto; display:block;">
+    {{- end }}
+    <h1 style="text-align:center;">{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+</article>
+{{- end }}
