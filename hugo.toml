@@ -1,4 +1,4 @@
-baseURL = baseURL = "https://tamanashb.github.io/adapt-lab-website/"
+baseURL = "https://tamanashb.github.io/adapt-lab-website/"
 languageCode = "en-us"
 title = "The ADAPT Lab"
 theme = "PaperMod"
