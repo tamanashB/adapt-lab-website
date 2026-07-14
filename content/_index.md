@@ -1,8 +1,8 @@
 ---
 title: 
 imageUrl: images/profile.png
-imageWidth: 457
-imageHeight: 337
+imageWidth: 532
+imageHeight: 389
 imageTitle: 
 ---
 
