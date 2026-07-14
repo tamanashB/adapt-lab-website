@@ -7,6 +7,9 @@ Welcome to the Bhattacharya Lab
 
 We study adaptive dynamics across pathogen-host interaction networks.
 
+
+
+
 ## Lab News
 
 - **July 13, 2026** — The Bhattacharya Lab officially launches at WashU on January 2027!
