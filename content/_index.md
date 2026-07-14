@@ -3,7 +3,7 @@ title:
 imageUrl: images/lab_profile.png
 imageWidth: 180
 imageHeight: 180
-imageTitle: Tamanash Bhattacharya
+imageTitle: 
 ---
 
 ## Lab News
