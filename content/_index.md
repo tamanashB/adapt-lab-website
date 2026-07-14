@@ -1,8 +1,8 @@
 ---
 title: 
-imageUrl: images/lab_profile.png
-imageWidth: 180
-imageHeight: 180
+imageUrl: images/profile.png
+imageWidth: 457
+imageHeight: 337
 imageTitle: 
 ---
 
