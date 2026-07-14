@@ -78,7 +78,4 @@ paginate = 10
   favicon32x32 = "favicon-32x32.png"
   apple_touch_icon = "apple-touch-icon.png"
   safari_pinned_tab = "favicon.svg"
-
-  [params.assets]
-  # existing settings...
   css = ["css/custom.css"]
