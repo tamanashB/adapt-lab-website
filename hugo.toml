@@ -37,8 +37,8 @@ paginate = 10
   url = "https://github.com/tamanashB"
 
 [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/poly_microbial"
+  name = "bluesky"
+  url = "https://bsky.app/profile/tamanash.bsky.social"
 
 [[params.socialIcons]]
   name = "email"
