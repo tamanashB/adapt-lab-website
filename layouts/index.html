@@ -7,19 +7,19 @@
     {{- end }}
     <h1>Welcome to the Bhattacharya Lab</h1>
     <span>We study adaptive dynamics across pathogen-host interaction networks at WashU.</span>
-  <div class="social-icons">
-    {{- range .Site.Params.socialIcons }}
-    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
-      {{- partial "svg.html" (dict "name" .name) }}
-    </a>
-    {{- end }}
-  </div>
+    <div class="social-icons">
+      {{- range .Site.Params.socialIcons }}
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
+        {{- partial "svg.html" (dict "name" .name) }}
+      </a>
+      {{- end }}
+    </div>
   </div>
 </div>
 
 <article class="post-single">
   <div class="post-content">
-    {{ .Content }}
+    {{- .Content | replaceRE "(?s)^.*?## Lab News" "## Lab News" }}
   </div>
 </article>
 {{- end }}
