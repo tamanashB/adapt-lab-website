@@ -1,8 +1,8 @@
 {{- define "main" }}
-<div class="profile" style="margin: 0.5rem 0; padding: 0;">
-  <div class="profile_inner" style="margin: 0; padding: 0.5rem 0;">
+<div class="profile" style="margin: 0.2rem 0; padding: 0;">
+  <div class="profile_inner" style="margin: 0; padding: 0.2rem 0;">
     <img draggable="false" src="https://tamanashb.github.io/adapt-lab-website/images/profile.png" alt="Tamanash Bhattacharya" title="Tamanash Bhattacharya" height="180" width="180">
-    <h1 style="margin: 0.5rem 0;">Welcome to the Bhattacharya Lab</h1>
+    <h1 style="margin: 0.2rem 0;">Welcome to the Bhattacharya Lab</h1>
     <span>We study adaptive dynamics across pathogen-host interaction networks at WashU.</span>
     <div class="social-icons">
       {{- range .Site.Params.socialIcons }}
@@ -13,10 +13,10 @@
     </div>
   </div>
 </div>
-<div style="margin-top: 1rem; margin-bottom: 0.5rem;">
+<div style="margin-top: 0.6rem; margin-bottom: 0.2rem;">
   <h2>Lab News</h2>
 </div>
-<div style="margin-bottom: 2rem;">
+<div style="margin-bottom: 1rem;">
   {{ .Content }}
 </div>
 {{- end }}
