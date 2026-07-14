@@ -10,3 +10,7 @@ body {
 main {
   background-color: white !important;
 }
+
+.logo a {
+  font-size: 1.5em !important;
+}
