@@ -10,7 +10,7 @@ title:
 
 *Assistant Professor of Molecular Microbiology*
 
-Born and raised in Calcutta, Tamanash graduated with a degree in bioengineering in 2012. He developed a longstanding interest in zoonotic viruses after a fateful internship in a clinical virology lab amid a brutal arbovirus outbreak.
+Born and raised in Calcutta, Tamanash graduated with a degree in bioengineering. He developed a longstanding interest in zoonotic viruses after a fateful internship in a clinical virology lab amid a brutal arbovirus outbreak.
 
 In 2014, he attended graduate school at IU (Hoo Hoo Hoosiers!) in the labs of **Richard Hardy** and **Irene Newton**, studying how the bacterial endosymbiont *Wolbachia pipientis*, a staple member of arthropod microbiota, protects insects against RNA viruses. This research uncovered unexpected immunoregulatory roles of the insect methyltransferase gene, *Mt2*, and viral RNA methylation in controlling viral infection outcomes across vector and vertebrate hosts.
 
