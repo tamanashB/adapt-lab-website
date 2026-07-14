@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 ---
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/profile.png)
 
