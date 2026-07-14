@@ -16,6 +16,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Get PaperMod theme
+        run: |
+          mkdir -p themes
+          cd themes
+          git clone https://github.com/adityatelange/hugo-PaperMod.git PaperMod
+          cd PaperMod
+          git checkout master
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
