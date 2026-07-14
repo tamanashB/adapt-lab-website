@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title:
 ---
 
 For a full and up-to-date list, see [Google Scholar profile](https://scholar.google.com/citations?user=cMWTTUkAAAAJ&hl=en).
