@@ -1,7 +1,12 @@
+:root {
+  --theme: white;
+  --entry: white;
+}
+
 body {
   background-color: white !important;
 }
 
-html {
+main {
   background-color: white !important;
 }
