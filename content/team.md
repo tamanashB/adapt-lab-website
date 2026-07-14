@@ -24,7 +24,7 @@ Outside the lab, Tamanash enjoys spending time with family and friends.
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/suzie.png)
 
-### Suzie B
+### Suzie B (she/her)
 
 *Emotional Support Agent*
 
