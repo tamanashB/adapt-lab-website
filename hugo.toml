@@ -1,0 +1,80 @@
+baseURL = "https://tamanashB.github.io/bhattacharya-lab-website/"
+languageCode = "en-us"
+title = "The ADAPT Lab"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "Tamanash Bhattacharya"
+  description = "We study how viruses evolve and interact with their hosts at Washington University in St. Louis."
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  hideMeta = true
+  disableThemeToggle = true
+
+[params.homeInfoParams]
+  Title = "Welcome to the Bhattacharya Lab"
+  Content = ""
+
+[params.profileMode]
+  enabled = true
+  title = "Welcome to the Bhattacharya Lab"
+  subtitle = "We study adaptive dynamics across pathogen-host interaction networks at WashU."
+  imageUrl = "images/lab_profile.png"
+  imageWidth = 180
+  imageHeight = 180
+  imageTitle = "Tamanash Bhattacharya"
+
+[[params.socialIcons]]
+  name = "google-scholar"
+  url = "https://scholar.google.com/citations?user=cMWTTUkAAAAJ&hl=en"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/tamanashB"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/poly_microbial"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:tamanash.bhattacharya@gmail.com"
+
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 1
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 2
+
+[[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 3
+
+[[menu.main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params.assets]
+  favicon = "favicon-32x32.png"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-touch-icon.png"
+  safari_pinned_tab = "favicon.svg"
