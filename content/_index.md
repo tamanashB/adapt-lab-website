@@ -1,14 +1,10 @@
 ---
-title:
+title: 
+imageUrl: images/lab_profile.png
+imageWidth: 180
+imageHeight: 180
+imageTitle: Tamanash Bhattacharya
 ---
-![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/profile.png)
-
-Welcome to the Bhattacharya Lab
-
-We study adaptive dynamics across pathogen-host interaction networks.
-
-
-
 
 ## Lab News
 
