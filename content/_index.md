@@ -1,6 +1,6 @@
 ---
 title: 
-imageUrl: images/lab_profile.png
+imageUrl: ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/lab_profile.png)
 imageWidth: 180
 imageHeight: 180
 imageTitle: 
