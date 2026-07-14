@@ -12,9 +12,9 @@ title:
 
 Born and raised in Calcutta, Tamanash graduated with a degree in bioengineering in 2012. He developed a longstanding fascination with zoonotic viruses after a fateful internship in a clinical virology lab amid a brutal arbovirus outbreak.
 
-In 2014, he attended graduate school at IU (Hoo Hoo Hoosiers!) in the labs of **Richard Hardy** and **Irene Newton**, studying how the bacterial endosymbiont *Wolbachia pipientis*, a staple member of arthropod microbiota, protects insects against RNA viruses. This research uncovered unexpected immunoregulatory roles of the insect methyltransferase gene, *Mt2*, and viral RNA m5C methylation in regulating alphavirus infections across host species.
+In 2014, he attended graduate school at IU (Hoo Hoo Hoosiers!) in the labs of **Richard Hardy** and **Irene Newton**, studying how the bacterial endosymbiont *Wolbachia pipientis*, a staple member of arthropod microbiota, protects insects against RNA viruses. This research uncovered unexpected immunoregulatory roles of the insect methyltransferase gene, *Mt2*, and viral RNA methylation in controlling viral infection outcomes across vector and vertebrate hosts.
 
-For his postdoctoral research in **Harmit Malik's** lab at Fred Hutch, Tamanash developed an independent research program focused on a fundamental question - what strategies have viruses evolved to maintain transmission across host organisms that diverged 700 million years ago? Using alphaviruses as a model system, Tamanash employed molecular, evolutionary, and cell-based approaches to identify viral strategies to overcome constraints imposed by host temperature and innate immunity.
+Tamanash joined **Harmit Malik's** lab at Fred Hutch for his postdoctoral research, during which he developed his independent research program aimed at answering a fundamental question - how have some viruses evolved to maintain transmission across host species that diverged 700 million years ago? Using alphaviruses as a model system, Tamanash employed molecular, evolutionary, and cell-based approaches to identify viral strategies to overcome constraints imposed by host temperature and innate immunity.
 
 Outside the lab, Tamanash enjoys spending time with family and friends.
 
