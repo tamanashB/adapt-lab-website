@@ -4,7 +4,7 @@ title:
 
 ## What We Study
 
-We are broadly interested in understanding how viruses evolve, persist, and spread across different hosts. Our lab uses a combination of molecular virology, genomics, and evolutionary biology to ask fundamental questions about virus-host interactions and strategies of viral adaptation.
+We are broadly interested in understanding how viruses evolve, persist, and spread across different hosts. Our lab uses a combination of molecular virology, functional genomics, and evolutionary biology to ask fundamental questions about virus-host interactions and strategies of viral adaptation.
 
 ## Research Areas
 
@@ -12,7 +12,7 @@ We are broadly interested in understanding how viruses evolve, persist, and spre
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/tree_host.png)
 
-Arboviruses like alphaviruses face a unique evolutionary challenge, as they must replicate in both arthropod vectors and vertebrate hosts, which impose very different selective pressures. We study how viral genomes adapt to navigate these competing demands using functional genomics. Our goal is to explore and define viral adaptive routes across hosts that are part of natural enzootic and epizootic transmission chains.
+Arboviruses face a unique evolutionary challenge, as they must replicate in both arthropod vectors and vertebrate hosts, which impose unique selective pressures. Using alphaviruses as a model, we study how viral genomes adapt to navigate these competing demands using functional genomics. Our goal is to explore and define viral adaptive routes across hosts that are part of natural enzootic and epizootic transmission chains.
 
 A key focus are viral features that assist in temperature- and innate immune-adaptation in vector and vertebrate hosts.
 
