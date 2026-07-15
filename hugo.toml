@@ -25,8 +25,8 @@ paginate = 10
   title = "Welcome to the Bhattacharya Lab"
   subtitle = "We study adaptive dynamics across pathogen-host interaction networks at WashU."
   imageUrl = "images/lab_profile.png"
-  imageWidth = 710
-  imageHeight = 519
+  imageWidth = 1774
+  imageHeight = 1328
   imageTitle = "Tamanash Bhattacharya"
 
 [[params.socialIcons]]
