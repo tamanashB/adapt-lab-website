@@ -17,12 +17,12 @@ paginate = 10
   defaultTheme = "light"
 
 [params.homeInfoParams]
-  Title = "Welcome to the Bhattacharya Lab"
+  Title = "Welcome to the Lab"
   Content = ""
 
 [params.profileMode]
   enabled = true
-  title = "Welcome to the Bhattacharya Lab"
+  title = "Welcome to the Lab"
   subtitle = "We study adaptive dynamics across pathogen-host interaction networks at WashU."
   imageUrl = "images/profile.png"
   imageWidth = 1774
