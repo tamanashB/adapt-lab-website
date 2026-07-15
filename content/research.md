@@ -4,7 +4,7 @@ title:
 
 ## What We Study
 
-Viruses that spread through arthropod vectors face an unusual evolutionary puzzle: their genomes must function in two radically different hosts - insects and vertebrates - which diverged more than 700 million years ago! Each of these host environments impose competing selective pressures — varying temperature, immunity, and dependency factors. How do viruses overcome this challenge? And do different virus families arrive at the same solutions?
+Viruses that spread through arthropod vectors face an unusual evolutionary puzzle: their genomes must function in two radically different hosts — insects and vertebrates — which diverged more than 700 million years ago! Each of these host environments impose competing selective pressures — varying temperature, immunity, and dependency factors. How do viruses overcome this challenge? And do different virus families arrive at the same solutions?
 
 These questions drive our research. We study viral evolution through the lens of functional genomics, combining experiments and computational analysis to uncover the molecular strategies viruses use to adapt across hosts.
 
