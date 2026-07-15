@@ -1,6 +1,6 @@
 baseURL = "https://tamanashb.github.io/adapt-lab-website/"
 languageCode = "en-us"
-title = "The ADAPT Lab"
+title = "Bhattacharya Lab"
 theme = "PaperMod"
 paginate = 10
 
