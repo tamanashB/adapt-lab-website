@@ -4,7 +4,9 @@ title:
 
 ## What We Study
 
-We are broadly interested in understanding how viruses evolve, persist, and spread across different hosts. Our lab uses a combination of molecular virology, functional genomics, and evolutionary biology to ask fundamental questions about virus-host interactions and strategies of viral adaptation.
+Viruses that spread through arthropod vectors face an unusual evolutionary puzzle: their genomes must function in two radically different hosts —insects and vertebrates - organisms that diverged more than 700 million years ago! Each of these host environments impose competing selective pressures - varying temperature, immunity, and dependency factors. How do viruses overcome this challenge? And do different virus families arrive at the same solutions?
+
+These questions drive our research. We study viral evolution through the lens of functional genomics, combining experiments and computational analysis to uncover the molecular strategies viruses use to adapt across hosts.
 
 ## Research Areas
 
@@ -12,19 +14,17 @@ We are broadly interested in understanding how viruses evolve, persist, and spre
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/tree_host.png)
 
-Arboviruses face a unique evolutionary challenge, as they must replicate in both arthropod vectors and vertebrate hosts, which impose unique selective pressures. Using alphaviruses as a model, we study how viral genomes adapt to navigate these competing demands using functional genomics. Our goal is to explore and define viral adaptive routes and population structures across hosts that are part of natural enzootic and epizootic transmission chains.
+Alphaviruses are our primary model system. Using deep mutational scanning and experimental evolution-based approaches, we map how viral genomes adapt to replicate in both arthropod vectors (like mosquitoes) and vertebrate hosts. We track adaptive signatures across natural transmission chainsto understand which mutations confer advantage in specific ecological contexts.
 
 ### Systems Approaches to Understanding Virus-Host Interactions
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/landscape_temperature.png)
 
-To understand the broader landscape of virus-host coevolution, we use functional genomics to identify adaptive mutations in key viral proteins. Using this data, we seek to map host-virus protein interaction networks using DMS-informed comparative proteomics, with the end goal of discovering host and environmental factors that drive viral evolution.
-
-A key focus are viral features that assist in temperature- and immune-adaptation in vector and vertebrate hosts. Our current target is alphavirus *nsP3*, which carries strong adaptive signatures, and influences host tropism, and virulence, in addition to fundamental aspects of genome replication and virion assembly.
+Rather than studying viral proteins in isolation, we ask: how do viral genomes rewire host cellular networks to facilitate infection? To understand the broader landscape of virus-host coevolution, we use DMS-informed comparative proteomics to map virus-host protein interaction networks and identify host factors that shape viral evolution. A key focus is alphavirus nsP3, a nonstructural protein carrying strong adaptive signatures that influences host tropism, virulence, and fundamental aspects of replication. 
 
 ### Uncovering Shared Principles
 
-Do virus families that share ecological niches (vector > vertebrate > vector) adopt similar strategies? What are these molecular rules, and do they extend beyond arboviruses to other viruses that have adopted host-switching lifestyles?
+Do virus families that share ecological niches (vector > vertebrate > vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they extend beyond arboviruses to other viruses that jump between hosts? These broader comparative questions guide our long-term research direction.
 
 ## Approaches
 
