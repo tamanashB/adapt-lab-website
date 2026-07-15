@@ -6,7 +6,7 @@ paginate = 10
 
 [params]
   author = "Tamanash Bhattacharya"
-  description = "We study how viruses evolve and interact with their hosts at Washington University in St. Louis."
+  description = "We study adaptive dynamics across pathogen-host interaction networks at WashU."
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
