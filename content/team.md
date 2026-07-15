@@ -10,13 +10,7 @@ title:
 
 *Assistant Professor of Molecular Microbiology*
 
-Born and raised in Calcutta, Tamanash graduated with a degree in bioengineering, but developed a longstanding interest in zoonotic viruses after a fateful internship in a clinical virology lab amid a brutal arbovirus outbreak.
-
-He attended graduate school at IU (Hoo Hoo Hoosiers!) in the labs of **Richard Hardy** and **Irene Newton**, studying how the bacterial endosymbiont *Wolbachia pipientis*, a staple member of arthropod microbiota, protects insects against RNA viruses. This research uncovered unexpected immunoregulatory roles of the insect methyltransferase gene, *Mt2*, and viral RNA methylation in controlling viral infection outcomes across vector and vertebrate hosts.
-
-Tamanash joined **Harmit Malik's** lab at Fred Hutch for his postdoctoral research, where he set out to answer a fundamental question - how have some viruses evolved to maintain transmission across host species that diverged 700 million years ago? Using alphaviruses as a model system, Tamanash used molecular virology, evolutionary biology, and functional genomics-based approaches to discover viral strategies of overcoming temperature- and innate immunity- driven constraints. In his lab, he aims to understand universal principles and molecular "rules" of multi-host adaptation.
-
-Outside the lab, Tamanash enjoys spending time with family and friends.
+Born and raised in Calcutta, Tamanash attended graduate school at Indiana University (Hoo Hoo Hoosiers!) in the labs of **Richard Hardy** and **Irene Newton**, studying how the bacterial endosymbiont *Wolbachia pipientis*, a staple member of arthropod microbiota, protects insects against RNA viruses. He then moved to Seattle to join **Harmit Malik's** lab at Fred Hutch, where he set out to answer a fundamental question - how can some viruses maintain transmission across host species that diverged 700 million years ago? Using alphaviruses as a model system, Tamanash discovered viral strategies of overcoming temperature- and innate immunity- driven constraints. In his lab, he aims to understand universal principles and molecular "rules" of multi-host adaptation. Outside the lab, Tamanash enjoys spicy Chinese food, tales of cosmic horror, and spending time with family and friends.
 
 [Email](mailto:tamanash.bhattacharya@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=cMWTTUkAAAAJ&hl=en) | [GitHub](https://github.com/tamanashB) | [Twitter/X](https://twitter.com/poly_microbial) | [Bluesky](https://bsky.app/profile/tamanash.bsky.app)
 
@@ -28,7 +22,7 @@ Outside the lab, Tamanash enjoys spending time with family and friends.
 
 *Emotional Support Agent*
 
-Our beloved red-legged Silky Terrier. Born and raised in South Dakota, Suzie is 10 years young, loves snacks, and snuggles.
+Born and raised in South Dakota, Suzie is our beloved red-legged Silky Terrier. (Always) outside the lab, Suzie loves snacks, stratches and snuggles.
 
 ---
 
