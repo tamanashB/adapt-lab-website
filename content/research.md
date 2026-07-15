@@ -12,17 +12,15 @@ We are broadly interested in understanding how viruses evolve, persist, and spre
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/tree_host.png)
 
-Arboviruses face a unique evolutionary challenge, as they must replicate in both arthropod vectors and vertebrate hosts, which impose unique selective pressures. Using alphaviruses as a model, we study how viral genomes adapt to navigate these competing demands using functional genomics. Our goal is to explore and define viral adaptive routes across hosts that are part of natural enzootic and epizootic transmission chains.
-
-A key focus are viral features that assist in temperature- and innate immune-adaptation in vector and vertebrate hosts. 
+Arboviruses face a unique evolutionary challenge, as they must replicate in both arthropod vectors and vertebrate hosts, which impose unique selective pressures. Using alphaviruses as a model, we study how viral genomes adapt to navigate these competing demands using functional genomics. Our goal is to explore and define viral adaptive routes and population structures across hosts that are part of natural enzootic and epizootic transmission chains.
 
 ### Systems Approaches to Understanding Virus-Host Interactions
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/landscape_temperature.png)
 
-To understand the broader landscape of virus-host coevolution, we are interested in identifying adaptive mutations in key viral proteins, mapping host-virus protein interaction networks with DMS-informed comparative proteomics, and discovering novel host factors that restrict or promote viral replication.
+To understand the broader landscape of virus-host coevolution, we use functional genomics to identify adaptive mutations in key viral proteins. Using this data, we seek to map host-virus protein interaction networks using DMS-informed comparative proteomics, with the end goal of discovering host and environmental factors that drive viral evolution.
 
-A key focus is alphavirus *nsP3*, which carries strong evolutionary signatures of adaptation, and influences host tropism, vector choice, and virulence, in addition to fundamental aspects of viral genome replication and virion assembly.
+A key focus are viral features that assist in temperature- and immune-adaptation in vector and vertebrate hosts. Our prime candidate is alphavirus *nsP3*, which carries strong adaptive signatures, and influences host tropism, and virulence, in addition to fundamental aspects of genome replication and virion assembly.
 
 ### Uncovering Shared Principles
 
