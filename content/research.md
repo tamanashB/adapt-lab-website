@@ -20,7 +20,7 @@ Arboviruses face a unique evolutionary challenge, as they must replicate in both
 
 To understand the broader landscape of virus-host coevolution, we use functional genomics to identify adaptive mutations in key viral proteins. Using this data, we seek to map host-virus protein interaction networks using DMS-informed comparative proteomics, with the end goal of discovering host and environmental factors that drive viral evolution.
 
-A key focus are viral features that assist in temperature- and immune-adaptation in vector and vertebrate hosts. Our prime candidate is alphavirus *nsP3*, which carries strong adaptive signatures, and influences host tropism, and virulence, in addition to fundamental aspects of genome replication and virion assembly.
+A key focus are viral features that assist in temperature- and immune-adaptation in vector and vertebrate hosts. Our current target is alphavirus *nsP3*, which carries strong adaptive signatures, and influences host tropism, and virulence, in addition to fundamental aspects of genome replication and virion assembly.
 
 ### Uncovering Shared Principles
 
