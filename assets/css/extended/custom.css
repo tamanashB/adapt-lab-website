@@ -2,3 +2,27 @@
   font-size: 1.8em !important;
   font-weight: bold;
 }
+
+:root {
+  --theme: rgb(255, 255, 255);
+  --entry: rgb(255, 255, 255);
+  --primary: rgb(0, 0, 0);
+  --secondary: rgb(100, 100, 100);
+  --tertiary: rgb(200, 200, 200);
+  --content: rgb(0, 0, 0);
+  --code-block-bg: rgb(240, 240, 240);
+  --code-bg: rgb(230, 230, 230);
+  --border: rgb(200, 200, 200);
+}
+
+body {
+  background-color: white !important;
+}
+
+main {
+  background-color: white !important;
+}
+
+html {
+  background-color: white !important;
+}
