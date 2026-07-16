@@ -24,7 +24,7 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 
 ### 2022
 
-***Differential viral RNA methylation contributes to pathogen blocking in Wolbachia-colonized arthropods.** **Bhattacharya T***, Yan L, Crawford JM, Zaher H, Newton IL, Hardy RW *PLoS Pathogens*, 18(3):e1010393, 2022 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010393)
+***Differential viral RNA methylation contributes to pathogen blocking in Wolbachia-colonized arthropods.*** **Bhattacharya T**, Yan L, Crawford JM, Zaher H, Newton IL, Hardy RW *PLoS Pathogens*, 18(3):e1010393, 2022 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010393)
 
 ### 2021
 
@@ -34,7 +34,7 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 
 ### 2020
 
-***Viral RNA is a target for Wolbachia-mediated pathogen blocking.** **Bhattacharya T***, Newton ILG, Hardy RW *PLoS Pathogens*, 16(6):e1008513, 2020 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008513)
+***Viral RNA is a target for Wolbachia-mediated pathogen blocking.*** **Bhattacharya T**, Newton ILG, Hardy RW *PLoS Pathogens*, 16(6):e1008513, 2020 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008513)
 
 ### 2019
 
@@ -42,7 +42,7 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 
 ### 2018
 
-***Conflict in the Intracellular Lives of Endosymbionts and Viruses: A Mechanistic Look at Wolbachia-Mediated Pathogen-blocking.*** Lindsey AR*, **Bhattacharya T***, Newton IL, Hardy RW (*equal contributions) *Viruses*, 10(4):141, 2018 — [Link](https://www.mdpi.com/1999-4915/10/4/141)
+***Conflict in the Intracellular Lives of Endosymbionts and Viruses: A Mechanistic Look at Wolbachia-Mediated Pathogen-blocking.*** Lindsey AR*, **Bhattacharya T**, Newton IL, Hardy RW (*equal contributions) *Viruses*, 10(4):141, 2018 — [Link](https://www.mdpi.com/1999-4915/10/4/141)
 
 ***Chikungunya virus: genomic microevolution in Eastern India and its in-silico epitope prediction*** Dutta SK, **Bhattacharya T**, Tripathi A *3 Biotech*, 8(7):318, 2018 — [Link](https://www.ncbi.nlm.nih.gov/pubmed/30023150)
 
