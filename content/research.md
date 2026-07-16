@@ -24,7 +24,7 @@ Rather than studying viral proteins in isolation, we ask how viral genomes rewir
 
 ### Uncovering Shared Principles
 
-Do virus families sharing ecological niches (vector &#8594; vertebrate -> vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they apply beyond arboviruses to others that jump between hosts? Identifying these "rules" provides a predictive framework to understand future zoonotic emergence and pandemic risk.
+Do virus families sharing ecological niches (vector &#8594; vertebrate &#8594; vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they apply beyond arboviruses to others that jump between hosts? Identifying these "rules" provides a predictive framework to understand future zoonotic emergence and pandemic risk.
 
 ## Approaches
 
