@@ -4,9 +4,9 @@ title:
 
 ## What We Study
 
-Viruses that spread through arthropod vectors face an unusual evolutionary puzzle: their genomes must function in two radically different hosts — insects and vertebrates — which diverged more than 700 million years ago! Each of these host environments impose competing selective pressures — varying temperatures, modes of immunity, and many dependency factors. 
+Arboviruses encounter a unique evolutionary challenge: they must replicate in organisms from two distinct host phyla, arthropods and chordates, which diverged over 700 million years ago. Each host environment imposes competing selective pressures, including differences in temperature, immune responses, and dependency factors.
 
-How do viruses overcome such a challenge? And do different virus families arrive at the same solutions? These questions drive our research. We study viral evolution through the lens of functional genomics, combining experiments and computational analysis to uncover the molecular strategies viruses use to adapt across host environments.
+How do viruses overcome these challenges? Do different virus families converge on similar solutions? These questions motivate our research. We investigate viral evolution using functional genomics, integrating experimental and computational approaches to reveal the molecular strategies viruses employ to adapt to diverse host environments.
 
 ## Research Areas
 
@@ -14,24 +14,23 @@ How do viruses overcome such a challenge? And do different virus families arrive
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/tree_host.png)
 
-Alphaviruses are our primary model system. Using deep mutational scanning and experimental evolution-based approaches, we map how viral genomes adapt to replicate in both arthropod vectors (like mosquitoes) and vertebrate hosts. We track adaptive signatures across natural transmission chainsto understand which mutations confer advantage in specific ecological contexts.
+Alphaviruses are our primary model system. Using deep mutational scanning and experimental evolution approaches, we map how viral genomes adapt to replicate in arthropod vectors (like mosquitoes) and vertebrate hosts. We track adaptive signatures across the natural transmission chain to understand which mutations confer advantage in specific ecological contexts.
 
 ### Systems Approaches to Understanding Virus-Host Interactions
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/landscape_temperature.png)
 
-Rather than studying viral proteins in isolation, we ask: how do viral genomes rewire host cellular networks to facilitate infection? To understand the broader landscape of virus-host coevolution, we use DMS-informed comparative proteomics to map virus-host protein interaction networks and identify host factors that shape viral evolution. A key focus is alphavirus nsP3, a nonstructural protein carrying strong adaptive signatures that influences host tropism, virulence, and fundamental aspects of replication. 
+Rather than studying viral proteins in isolation, we ask how viral genomes rewire host cellular networks to facilitate infection. To understand virus-host coevolution more broadly, we use DMS-informed comparative proteomics to map virus-host protein interaction networks and identify host factors shaping viral evolution. A key focus is alphavirus nsP3, a nonstructural protein with strong adaptive signatures that influence host tropism, virulence, and fundamental aspects of replication.
 
 ### Uncovering Shared Principles
 
-Do virus families that share ecological niches (vector > vertebrate > vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they extend beyond arboviruses to others that jump between hosts? If we can identify the "rules" of host-switching, we gain a predictive framework for understanding future zoonotic emergence and pandemic risk.
+Do virus families sharing ecological niches (vector > vertebrate > vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they apply beyond arboviruses to others that jump between hosts? Identifying these "rules" provides a predictive framework to understand future zoonotic emergence and pandemic risk.
 
 ## Approaches
 
 We are an integrative lab. Our work combines:
 
 - Molecular virology
-- Comparative and evolutionary genomics
+- Functional genomics
 - Transcriptomics and proteomics
-- Computational analysis
-- Cell culture and *In vivo* models
+- Computational evolutionary analysis
