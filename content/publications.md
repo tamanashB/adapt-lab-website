@@ -2,7 +2,7 @@
 title: 
 ---
 
-For a full and up-to-date list, see [Google Scholar profile](https://scholar.google.com/citations?user=cMWTTUkAAAAJ&hl=en).
+For a full and up-to-date list, refer to our [Google Scholar profile](https://scholar.google.com/citations?user=cMWTTUkAAAAJ&hl=en).
 
 ---
 
