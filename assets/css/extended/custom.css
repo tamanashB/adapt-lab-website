@@ -35,3 +35,7 @@ html {
 #menu a {
   font-size: 1.1em !important;
 }
+
+.heading-link {
+  display: none !important;
+}
