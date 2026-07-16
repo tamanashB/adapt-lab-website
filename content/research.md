@@ -14,7 +14,7 @@ How do viruses overcome these challenges? Do different virus families converge o
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/tree_host.png)
 
-Alphaviruses are our primary model system. Using deep mutational scanning and experimental evolution approaches, we map how viral genomes adapt to replicate in arthropod vectors (like mosquitoes) and vertebrate hosts. We track adaptive signatures across the natural transmission chain to understand which mutations confer advantage in specific ecological contexts.
+Alphaviruses are our primary model system. Using deep mutational scanning and experimental evolution approaches, we map how viral genomes adapt to replicate in arthropod vectors (like mosquitoes) and vertebrate hosts. We track adaptive signatures across the viral transmission chain to understand which mutations confer advantage in specific ecological contexts.
 
 ### Systems Approaches to Understanding Virus-Host Interactions
 
