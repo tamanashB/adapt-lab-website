@@ -66,4 +66,4 @@ Graduate school and postdoctoral training can be stressful. Please never hesitat
 
 ### Resources for the Lab
 
-[Lab Resources](https://tamanashb.github.io/adapt-lab-website/lab-resources/)
+[Lab Resources](https://tamanashb.github.io/adapt-lab-website/lab_resources/)
