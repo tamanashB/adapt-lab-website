@@ -20,7 +20,7 @@ Alphaviruses are our primary model system. Using deep mutational scanning and ex
 
 ![Lab illustration](https://tamanashb.github.io/adapt-lab-website/images/landscape_temperature.png)
 
-Rather than studying viral proteins in isolation, we ask how viral genomes rewire host cellular networks to facilitate infection. To understand virus-host coevolution more broadly, we use DMS-informed comparative proteomics to map virus-host protein interaction networks and identify host factors shaping viral evolution. A key focus is alphavirus nsP3, a nonstructural protein with strong adaptive signatures that influence host tropism, virulence, and fundamental aspects of replication.
+We ask how viral genomes rewire host cellular networks to facilitate infection. To understand virus-host coevolution more broadly, we use DMS-informed comparative proteomics to map virus-host protein interaction networks and identify host factors shaping viral evolution. A key focus is alphavirus nsP3, a nonstructural protein with strong adaptive signatures that influence host tropism, virulence, and fundamental aspects of replication.
 
 ### Uncovering Shared Principles
 
