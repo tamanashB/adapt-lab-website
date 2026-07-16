@@ -26,3 +26,12 @@ main {
 html {
   background-color: white !important;
 }
+
+.logo a {
+  font-size: 1.8em !important;
+  font-weight: bold;
+}
+
+#menu a {
+  font-size: 1.1em !important;
+}
