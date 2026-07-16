@@ -8,7 +8,7 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 
 ### 2026
 
-**A conserved in-frame stop codon acts as a multipotent defense mechanism in alphaviruses.** **Bhattacharya T**†, Freeman TS, Alleman EM, Wang F, Chechik L, Emerman M, Myles KM, Malik HS *Science Advances*, 2025 — [Link](https://www.science.org/doi/full/10.1126/sciadv.aee6015)
+**A conserved in-frame stop codon acts as a multipotent defense mechanism in alphaviruses.** ***Bhattacharya T***†, Freeman TS, Alleman EM, Wang F, Chechik L, Emerman M, Myles KM, Malik HS *Science Advances*, 2025 — [Link](https://www.science.org/doi/full/10.1126/sciadv.aee6015)
 
 ### 2025
 
