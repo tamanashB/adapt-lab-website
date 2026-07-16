@@ -4,9 +4,9 @@ title:
 
 ## What We Study
 
-Viruses that spread through arthropod vectors face an unusual evolutionary puzzle: their genomes must function in two radically different hosts — insects and vertebrates — which diverged more than 700 million years ago! Each of these host environments impose competing selective pressures — characterized by varying temperatures, modes of immunity, and dependency factors. 
+Viruses that spread through arthropod vectors face an unusual evolutionary puzzle: their genomes must function in two radically different hosts — insects and vertebrates — which diverged more than 700 million years ago! Each of these host environments impose competing selective pressures — varying temperatures, modes of immunity, and many dependency factors. 
 
-How do viruses overcome this challenge? And do different virus families arrive at the same solutions? These questions drive our research. We study viral evolution through the lens of functional genomics, combining experiments and computational analysis to uncover the molecular strategies viruses use to adapt across host environments.
+How do viruses overcome such a challenge? And do different virus families arrive at the same solutions? These questions drive our research. We study viral evolution through the lens of functional genomics, combining experiments and computational analysis to uncover the molecular strategies viruses use to adapt across host environments.
 
 ## Research Areas
 
@@ -24,7 +24,7 @@ Rather than studying viral proteins in isolation, we ask: how do viral genomes r
 
 ### Uncovering Shared Principles
 
-Do virus families that share ecological niches (vector > vertebrate > vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they extend beyond arboviruses to other viruses that jump between hosts? If we can identify the "rules" of host-switching, we gain a predictive framework for understanding future zoonotic emergence and pandemic risk.
+Do virus families that share ecological niches (vector > vertebrate > vector) converge on similar molecular strategies? What are the molecular "rules" of host-switching, and do they extend beyond arboviruses to others that jump between hosts? If we can identify the "rules" of host-switching, we gain a predictive framework for understanding future zoonotic emergence and pandemic risk.
 
 ## Approaches
 
