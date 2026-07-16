@@ -38,7 +38,7 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 
 ### 2019
 
-***Mi Casa es Su Casa: How an Intracellular Symbiont Manipulates Host Biology.** **Bhattacharya T***, Newton IL *Environmental Microbiology*, 21(9):3188-96, 2019 — [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.13964)
+***Mi Casa es Su Casa: How an Intracellular Symbiont Manipulates Host Biology.*** **Bhattacharya T**, Newton IL *Environmental Microbiology*, 21(9):3188-96, 2019 — [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.13964)
 
 ### 2018
 
