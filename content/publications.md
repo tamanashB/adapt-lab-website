@@ -8,11 +8,11 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 
 ### 2026
 
-**A conserved in-frame stop codon acts as a multipotent defense mechanism in alphaviruses.** ***Bhattacharya T***†, Freeman TS, Alleman EM, Wang F, Chechik L, Emerman M, Myles KM, Malik HS *Science Advances*, 2025 — [Link](https://www.science.org/doi/full/10.1126/sciadv.aee6015)
+**A conserved in-frame stop codon acts as a multipotent defense mechanism in alphaviruses.** **Bhattacharya T**†, Freeman TS, Alleman EM, Wang F, Chechik L, Emerman M, Myles KM, Malik HS *Science Advances*, 2025 — [Link](https://www.science.org/doi/full/10.1126/sciadv.aee6015) † Corresponding author
 
 ### 2025
 
-**A conserved opal termination codon optimizes a temperature-dependent trade-off between protein production and processing in alphaviruses.** **Bhattacharya T**†, Alleman EM, Freeman TS, Noyola AC, Emerman M, Malik HS *Science Advances*, 11(16):eads7933, 2025 — [Link](https://www.science.org/doi/10.1126/sciadv.ads7933)
+**A conserved opal termination codon optimizes a temperature-dependent trade-off between protein production and processing in alphaviruses.** **Bhattacharya T**†, Alleman EM, Freeman TS, Noyola AC, Emerman M, Malik HS *Science Advances*, 11(16):eads7933, 2025 — [Link](https://www.science.org/doi/10.1126/sciadv.ads7933) † Corresponding author
 
 **Identification of AMOTL2 as an antiviral factor that enhances the human type I interferon response against Zika virus.** Willcox AC, Gobillot TA, Kikawa C, Baumgarten NE, Stoddard CI, Sung K, **Bhattacharya T**, Freeman TS, Marceau J, Humes D, Overbaugh J *PNAS*, 2025 — [Link](https://pubmed.ncbi.nlm.nih.gov/40892926/)
 
@@ -49,5 +49,3 @@ For a full and up-to-date list, see [Google Scholar profile](https://scholar.goo
 ### 2017
 
 **Wolbachia elevates host methyltransferase expression to block an RNA virus early during infection** **Bhattacharya T.**, Newton IL, Hardy RW *PLoS Pathogens*, 13(6):e1006427, 2017 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006427)
-
-† Corresponding author
