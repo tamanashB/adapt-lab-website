@@ -29,7 +29,7 @@ In our lab, we believe that pushing the boundaries of knowledge requires bold in
 
 ### Working Hours
 
-We trust lab members to manage their time effectively and meet their scientific goals. That said, we expect everyone to be present for scheduled lab meetings, seminars, and collaborative commitments. Science is a marathon, not a sprint. Therefore, sustainable work habits are encouraged.
+Lab members must manage their time effectively and meet their scientific goals. We expect everyone to be present for scheduled lab meetings, seminars, and collaborative commitments. Science is a marathon, not a sprint. Therefore, sustainable work habits are encouraged.
 
 ### Meetings
 
