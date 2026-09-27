@@ -20,9 +20,9 @@ Born and raised in Calcutta, Tamanash attended graduate school at Indiana Univer
 
 ### Suzie B (she/her)
 
-*Emotional Support Agent*
+*Remote Emotional Support Agent*
 
-Born and raised in South Dakota, Suzie is our beloved red-legged Silky Terrier. (Always) outside the lab, Suzie loves snacks, stratches and snuggles.
+Born and raised in South Dakota, Suzie is our beloved red-legged Silky Terrier. She is particularly fond of bananas, watermelons, and snuggles.
 
 ---
 
@@ -32,7 +32,7 @@ Our lab is soon to be up and running at WashU, and we are excited to build a tea
 
 ### Prospective Postdoctoral Researchers
 
-We welcome inquiries from prospective postdocs skilled in computational biology, functional genomics and proteomics who are excited about exploring the biology of viral host adaptation. Please send an email with your CV, a summary of your research background, and what you hope to accomplish during your postdoc.
+We welcome inquiries from highly motivated individuals who are excited about exploring the biology of viral host adaptation using computational biology, functional genomics and proteomics. Please send an email with your CV, a summary of your research background, and what you hope to accomplish during your postdoc.
 
 ### Prospective Graduate Students
 
