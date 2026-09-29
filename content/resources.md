@@ -44,7 +44,7 @@ We follow the guidelines of the National Institutes of Health for authorship. Co
 ### Data and Code
 
 - All raw data must be stored and backed up according to lab protocols
-- Code used in publications must be deposited in a public repository (e.g. GitHub)
+- Code used in publications must be deposited in a public repository
 - Lab notebooks (physical or electronic) must be kept up to date
 
 ### Mental Health and Wellbeing
