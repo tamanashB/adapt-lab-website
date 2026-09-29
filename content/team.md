@@ -40,7 +40,7 @@ If you are interested in joining the lab as a Ph.D. student, please reach out be
 
 ### Undergraduate Researchers
 
-We welcome inquiries from motivated undergraduates and post-bacs who want hands-on research experience. Please send us a brief email introducing yourself and describing your interest in the lab.
+We welcome inquiries from motivated undergraduates and post-bacs who want hands-on research experience. Working in a laboratory is rewarding but time-intensive. To maximize the learning experience, students are expected to dedicate at least **10 hours per week** to research. If you have the time and are interested in our research, please send us a brief email introducing yourself and describing your interest in the lab. 
 
 ---
 
