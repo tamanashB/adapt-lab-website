@@ -4,9 +4,9 @@ title:
 
 ## What We Study
 
-Arboviruses encounter a unique evolutionary challenge: they must replicate in organisms from two distinct host phyla, arthropods and chordates, which diverged over 700 million years ago. Each host environment imposes competing selective pressures, including differences in temperature, immune responses, and dependency factors.
+Some viruses like arboviruses encounter a unique evolutionary challenge: they must replicate in organisms from two distinct host phyla, arthropods and chordates, which diverged over 700 million years ago. Each host environment imposes competing selective pressures, including differences in temperature, immune responses, and dependency factors.
 
-How do viruses overcome these challenges? Do different virus families converge on similar solutions? These questions motivate our research. We investigate viral evolution using functional genomics, integrating experimental and computational approaches to reveal the molecular strategies viruses employ to adapt to diverse host environments.
+How do such viruses overcome these challenges? Do different virus families converge on similar solutions? These questions motivate our research. We investigate viral evolution using functional genomics, integrating experimental and computational approaches to reveal the molecular strategies viruses employ to adapt to diverse host environments.
 
 ## Research Areas
 
