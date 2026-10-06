@@ -43,7 +43,7 @@ paginate = 10
 
 [[params.socialIcons]]
   name = "email"
-  url = "mailto:tamanash.bhattacharya@gmail.com"
+  url = "mailto:tamanash@email.wustl.edu"
 
 [[menu.main]]
   name = "Research"
