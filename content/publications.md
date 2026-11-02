@@ -50,4 +50,4 @@ For a full and up-to-date list, refer to our [Google Scholar profile](https://sc
 
 ### 2017
 
-***Wolbachia elevates host methyltransferase expression to block an RNA virus early during infection*** **Bhattacharya T.**, Newton IL, Hardy RW. *PLoS Pathogens*, 13(6):e1006427, 2017 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006427)
+***Wolbachia elevates host methyltransferase expression to block an RNA virus early during infection.*** **Bhattacharya T.**, Newton IL, Hardy RW. *PLoS Pathogens*, 13(6):e1006427, 2017 — [Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006427)
