@@ -46,7 +46,7 @@ For a full and up-to-date list, refer to our [Google Scholar profile](https://sc
 
 ***Conflict in the Intracellular Lives of Endosymbionts and Viruses: A Mechanistic Look at Wolbachia-Mediated Pathogen-blocking.*** Lindsey AR*, **Bhattacharya T**, Newton IL, Hardy RW. *Viruses*, 10(4):141, 2018 — [Link](https://www.mdpi.com/1999-4915/10/4/141) *(*Contributed Equally)*
 
-***Chikungunya virus: genomic microevolution in Eastern India and its in-silico epitope prediction*** Dutta SK, **Bhattacharya T**, Tripathi A. *3 Biotech*, 8(7):318, 2018 — [Link](https://www.ncbi.nlm.nih.gov/pubmed/30023150)
+***Chikungunya virus: genomic microevolution in Eastern India and its in-silico epitope prediction.*** Dutta SK, **Bhattacharya T**, Tripathi A. *3 Biotech*, 8(7):318, 2018 — [Link](https://www.ncbi.nlm.nih.gov/pubmed/30023150)
 
 ### 2017
 
